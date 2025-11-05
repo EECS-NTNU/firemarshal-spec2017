@@ -1,3 +1,4 @@
 [submodule "speckle"]
 	path = speckle
 	url = https://github.com/EECS-NTNU/Speckle
+	branch = master
